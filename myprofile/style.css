@@ -46,7 +46,12 @@ body
   background-color:#581845;
   
   padding: 50px 0px 0px 200px;
-}
-@media screen and (max-width:375px)
+{
+	img
+{  
+    padding: 1px 10px 10px 3px;
+	float:left;
+	width:30%
 	
+}
 }
