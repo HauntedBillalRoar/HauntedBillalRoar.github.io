@@ -47,7 +47,7 @@ body
   
   padding: 50px 0px 0px 200px;
 }
-@media screen and (max-width)
+@media screen and (max-width:400px)
 	{
 		h1
 {
